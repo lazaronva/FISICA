@@ -5,7 +5,7 @@ pudessem ter acesso aos materiais de aulas devido a falhas no envio de materiais
 Todos os arquivo do repositório estão em formato pdf.
 Os arquivos Class_ contêm os materiais desenvolvidos no semstre 2018_1 e exercícios.
 Os arquivos Notes_ contêm as notas de aulas scaneadas.
-Os arquivos Sage contêm os materiais do curso de Sage desenvolvidos para o minicurso na JAPEX.
+Os arquivos Sage_ contêm os materiais do curso de Sage desenvolvidos para o minicurso na JAPEX.
 Bom proveito!
 Att.
 Prof. Lázaro.
